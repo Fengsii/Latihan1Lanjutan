@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lantihan1LanjutanC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adeaff90a58b41c5d38b6db8055c72521140d001")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lantihan1LanjutanC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lantihan1LanjutanC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
